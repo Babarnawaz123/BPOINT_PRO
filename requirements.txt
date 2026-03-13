@@ -1,0 +1,10 @@
+# B-POINT — requirements.txt
+# All packages are 100% Open Source
+# Install with: pip install -r requirements.txt
+
+mediapipe>=0.10.0        # Apache 2.0 — 21-point hand landmark detection
+opencv-python>=4.8.0     # Apache 2.0 — Camera stream processing & GUI overlay
+pyautogui>=0.9.54        # BSD       — Native OS mouse event injection
+numpy>=1.24.0            # BSD       — Coordinate mapping & EMA smoothing
+
+# tkinter is part of Python stdlib (PSF License) — no install needed
